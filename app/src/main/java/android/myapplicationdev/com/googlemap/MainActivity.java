@@ -20,8 +20,6 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-import static java.security.AccessController.getContext;
-
 public class MainActivity extends AppCompatActivity {
 
     Button btn1, btn2, btn3;
